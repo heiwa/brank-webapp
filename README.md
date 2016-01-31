@@ -7,3 +7,7 @@ http://ayato-p.github.io/clojure-beginner/index.html
 ありがたい日本語ドキュメント。
 
 brank はスペルミスじゃないんだからね！
+
+create war file
+> lein ring uberwar 
+
